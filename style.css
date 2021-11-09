@@ -50,11 +50,11 @@ body {
 }
 
 #section1 {
-    background-color: chocolate;
+    background-color: #ed7e0b;
 }
 
 #section2 {
-    background-color: goldenrod;
+    background-color: #f6c53b;
 }
 
 .buttons {
@@ -70,20 +70,20 @@ body {
     height: 200px;
     border-radius: 50%;
 
-    background-color: orchid;
+    background-color: #fa2e6a;
 }
 
 #button2 {
     right: 40px;
     bottom: 40px;
 
-    background-color: palegreen;
+    background-color: #49dd5b;
 }
 
 #button3 {
     bottom: 40px;
     left: 50%;
     transform: translate(-50%, -50%);
-    
-    background-color: purple;
+
+    background-color: #a866db;
 }
