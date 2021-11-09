@@ -49,9 +49,18 @@ body {
 }
 
 #section1 {
+    position: relative;
     background-color: chocolate;
 }
 
 #section2 {
     background-color: goldenrod;
+}
+
+#button1 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: orchid;
 }
