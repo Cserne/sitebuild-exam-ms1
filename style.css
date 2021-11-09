@@ -45,6 +45,7 @@ body {
 
 .sections {
     position: relative;
+
     width: 100vw;
     height: 100vh;
 }
@@ -59,6 +60,7 @@ body {
 
 .buttons {
     position: absolute;
+
     width: 200px;
     height: 60px;
 }
@@ -66,11 +68,12 @@ body {
 #button1 {
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
     height: 200px;
     border-radius: 50%;
-
+    
     background-color: #fa2e6a;
+    
+    transform: translate(-50%, -50%);
 }
 
 #button2 {
@@ -83,7 +86,8 @@ body {
 #button3 {
     bottom: 40px;
     left: 50%;
-    transform: translate(-50%, -50%);
-
+    
     background-color: #a866db;
+    
+    transform: translate(-50%, -50%);
 }
