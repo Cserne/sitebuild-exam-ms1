@@ -69,12 +69,14 @@ body {
     transform: translate(-50%, -50%);
     height: 200px;
     border-radius: 50%;
+
     background-color: orchid;
 }
 
 #button2 {
     right: 40px;
     bottom: 40px;
+
     background-color: palegreen;
 }
 
@@ -82,5 +84,6 @@ body {
     bottom: 40px;
     left: 50%;
     transform: translate(-50%, -50%);
+    
     background-color: purple;
 }
